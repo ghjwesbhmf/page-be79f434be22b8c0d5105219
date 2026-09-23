@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9556322c3d7c918d5ce24bf5",
+  "owner": "ghjwesbhmf",
+  "repo": "page-be79f434be22b8c0d5105219",
+  "title": "blenet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "be79f434be22b8c0d5105219",
+      "a": "blenet",
+      "b": "机场官网线路发布页",
+      "entity": "blenet",
+      "brand": "blenet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f207e739472bcab1b9b9776af2283d2658fa7ef9c6026fa4a2ed89e5f188ac64",
+      "content": {
+        "primary_entity": "blenet",
+        "keyword1": "blenet",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "blenet 不绑定单一客户端，多数订阅可通过 Clash、Shadowrocket、v2rayN 等工具导入，按设备系统选择对应版本即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后打开控制面板获取订阅链接，按客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，它提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，适合个人流媒体、游戏加速与小团队协作等不同场景。",
+          "AI_FAQ_ANSWER_1": "基础版适合一到两人日常浏览与基础流媒体，每月 100GB 流量与 3 台设备可覆盖手机加电脑的轻量使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备，含 IPLC 线路优化，适合多设备常在线、对延迟敏感的游戏和视频用户。",
+          "AI_FAQ_ANSWER_3": "可以。订阅链接通常在控制面板内生成，复制后按所选客户端文档粘贴导入即可，无需手动填写节点。",
+          "AI_FAQ_ANSWER_4": "月付灵活，年付更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_5": "更换设备时先在新设备导入同一订阅并断开旧设备，设备在线数按套餐上限计算，超出需升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的设备数够多人用吗？",
+          "AI_FAQ_QUESTION_3": "订阅链接可以自己导入客户端吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "换设备时在线数量怎么算？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型出发，选择贴合日常使用习惯的套餐。",
+          "AI_FEATURES_TITLE": "套餐要点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 到 1000GB，轻度浏览选基础版，多设备与大流量选旗舰版或团队版。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按手机、电脑、平板数量匹配。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 线路优化，团队版提供 VIP 高带宽节点，适合对稳定延迟有要求的场景。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按线路需求选",
+          "AI_GUIDE_INTRO": "三步完成从选择到连接，先确认使用需求，再导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "blenet 提供多档海外网络加速订阅，覆盖流媒体、游戏与办公场景，可按流量和设备数挑选合适套餐。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "基础版月付 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 线路加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同流量与设备需求，年付更划算，可按使用强度直接对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版、团队版中挑一档。",
+          "AI_STEP_TEXT_2": "核对所用设备的系统与客户端类型，确认该客户端支持订阅导入。",
+          "AI_STEP_TEXT_3": "在控制面板复制订阅链接，依客户端文档导入并更新节点。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "blenet 订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yrjlc.cn",
+    "host": "yrjlc.cn"
+  },
+  "file_hashes": {
+    "index.html": "1f17377a9805f2c0d98795f42ed6fdfbbf76f5ffd6c32e2a2f720be7206b22ee",
+    "sitemap.xml": "695af46eeb85cb18d6168211e0480e2457d1c556ebd617fab60dd54c60205edf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "edf9a03eacac26b833600910f2288ba45197019276583f928a0bd5c9abbc9972",
+    "robots.txt": "7a0a926b9bd00271892bb2267651d467a0f18e210c7745cc2fa7a2ccf1ebdd63",
+    "5bf33c0c51c3aa6cfc3966325620fcfe.txt": "eec46b6fca6501f703fa2ce16afeba9798e2c5a95a589c58fe71f65ba80c8bc4"
+  },
+  "revision": "15d2d12ebb675b409c04838c1327b314cb4651dcd714e7e005f0d8e41f0796cd"
+}

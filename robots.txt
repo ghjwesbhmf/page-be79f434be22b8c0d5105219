@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yrjlc.cn/sitemap.xml
